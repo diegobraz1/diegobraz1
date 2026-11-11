@@ -1,5 +1,5 @@
 
-# Diego
+# Diego Henrique 
 
 **Desenvolvedor em formação | Software & Web Development**
 
@@ -7,13 +7,7 @@
 
 ---
 
-### `01 / About Me`
-
-Sou um entusiasta de tecnologia e desenvolvedor em formação, construindo uma base sólida em programação.
-
-Acredito na evolução contínua, na resolução de problemas e no desenvolvimento de soluções simples, eficientes e bem estruturadas.
-
-### `02 / Tech Stack`
+### `Tech Stack`
 
 **Linguagens em aprendizado**
 
